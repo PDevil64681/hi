@@ -313,7 +313,6 @@
 ||9e.video-ak.cdn.spotify.com^
 ||ed.audio-ak.cdn.spotify.com^
 ||a7.video-ak.cdn.spotify.com^
-||wg.spotify.com^
 ||repository.spotify.com^
 ||a3.video-ak.cdn.spotify.com^
 ||8a.audio-ak.cdn.spotify.com^
