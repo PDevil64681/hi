@@ -388,7 +388,6 @@
 ||e10499.dsce9.akamaiedge.net^
 ||omaze.com^
 ||partners.spotify.com^
-||xpui.app.spotify.com^
 ||p.scdn.co^
 ||ads-sp-lon.cdn.spotify.com^
 ||88.video-ak.cdn.spotify.com^
