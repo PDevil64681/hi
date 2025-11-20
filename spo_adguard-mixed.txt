@@ -42457,7 +42457,6 @@
 ||bastille01.webtrekk.net^
 ||bastionedqpaugac.download^
 ||bat.adforum.com^
-||bat.bing.com^
 ||bat.bing.com.prx.proxywebsite.co.uk^
 ||bat.r.msn.com^
 ||batbuilding.com^
