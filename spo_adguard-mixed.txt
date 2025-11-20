@@ -135925,7 +135925,6 @@
 ||video-adserver.ibillboard.com^
 ||video-akp-cdn-spotify-com.akamaized.net^
 ||video-akpcw-cdn-spotify-com.akamaized.net^
-||video-akpcw.spotifycdn.com^
 ||video-api.yql.yahoo.com^
 ||video-assets.mathtag.com^
 ||video-aws-stg.fyber.com^
