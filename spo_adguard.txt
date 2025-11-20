@@ -1242,4 +1242,3 @@
 ||dev.spotify.com^
 ||73.audio-ak.cdn.spotify.com^
 ||wg.spotify.com^
-||i.scdn.co^
