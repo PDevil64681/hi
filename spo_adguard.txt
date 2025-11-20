@@ -374,7 +374,6 @@
 ||mymetrix.comscore.com^
 ||c3.audio-ak.cdn.spotify.com^
 ||clk2.vip.sc9.admob.com^
-||securepubads.g.doubleclick.net^
 ||d1.audio-ak.cdn.spotify.com^
 ||car-prod.scdn.co^
 ||artistheader.scdn.co^
@@ -1247,6 +1246,7 @@
 ||dev.spotify.com^
 ||73.audio-ak.cdn.spotify.com^
 ||gae2-spclient.spotify.com^
+
 
 
 
