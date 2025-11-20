@@ -116652,7 +116652,6 @@
 ||securep2p.com^
 ||securepaths.com^
 ||securepayment.cc^
-||securepubads.g.doubleclick.net^
 ||secureredirect101.com^
 ||securerr.com^
 ||securerunner.com^
