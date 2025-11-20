@@ -1246,6 +1246,7 @@
 ||ash1-apresolve-a1.ash1.spotify.com^
 ||dev.spotify.com^
 ||73.audio-ak.cdn.spotify.com^
+||gae2-spclient.spotify.com^
 
 
 
