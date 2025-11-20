@@ -1153,7 +1153,6 @@
 ||70.audio-ak.cdn.spotify.com^
 ||f3.video-ak.cdn.spotify.com^
 ||4c.video-ak.cdn.spotify.com^
-||charts-images.scdn.co^
 ||a1949.dscb.akamai.net^
 ||cws2.spotify.com^
 ||06.video-ak.cdn.spotify.com^
