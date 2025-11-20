@@ -1174,7 +1174,6 @@
 ||lotta.ash1.spotify.com^
 ||d3rt199lpmkn.cloudfront.net^
 ||c1.vip.sc9.admob.com^
-||video-akpcw.spotifycdn.com^
 ||dev1.vip.sc9.admob.com^
 ||stacia.ash1.spotify.com^
 ||blog.spotify.com^
