@@ -120168,7 +120168,6 @@
 ||spc.cejhbebefgneifcekhfgggff.iban.telemetryverification.net.47287.9351.302br.net^
 ||spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net^
 ||spcdnsp.i-mobile.co.jp^
-||spclient-canary.wg.spotify.com^
 ||spcpgtepary.com^
 ||spcwm.com^
 ||spd.atdmt.com^
