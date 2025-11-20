@@ -1242,4 +1242,3 @@
 ||73.audio-ak.cdn.spotify.com^
 ||wg.spotify.com^
 ||audio-cf.spotifycdn.com^
-||xpui.app.spotify.com^
