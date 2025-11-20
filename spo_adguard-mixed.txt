@@ -51052,7 +51052,6 @@
 ||charter.adlegend.com^
 ||charter.demdex.net^
 ||chartmuseum-test.districtm.io^
-||charts-images.scdn.co^
 ||chaseonline.com^
 ||chasingfireflies.btttag.com^
 ||chat.adform.com^
