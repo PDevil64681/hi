@@ -469,6 +469,7 @@
 ||vastx.moatads.com^
 ||car-dev.scdn.co^
 ||gew1-accesspoint-b-p520.ap.spotify.com^
+||audio-cf.spotifycdn.com^
 ||reports.crashlytics.com^
 ||sjc.weblb-wg.dual-gslb.spotify.com^
 ||4b.audio-ak.cdn.spotify.com^
