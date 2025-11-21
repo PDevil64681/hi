@@ -39877,6 +39877,7 @@
 ||audio-akp.spotify.com^
 ||audio-akp.spotify.com.edgesuite.net^
 ||audio-cf.spotify.com^
+||audio-cf.spotifycdn.com^
 ||audio-ec.spotify.com^
 ||audio-fa.spotify.com^
 ||audio-fab.spotify.com^
@@ -42457,6 +42458,7 @@
 ||bastille01.webtrekk.net^
 ||bastionedqpaugac.download^
 ||bat.adforum.com^
+||bat.bing.com^
 ||bat.bing.com.prx.proxywebsite.co.uk^
 ||bat.r.msn.com^
 ||batbuilding.com^
@@ -51052,6 +51054,7 @@
 ||charter.adlegend.com^
 ||charter.demdex.net^
 ||chartmuseum-test.districtm.io^
+||charts-images.scdn.co^
 ||chaseonline.com^
 ||chasingfireflies.btttag.com^
 ||chat.adform.com^
@@ -116650,6 +116653,7 @@
 ||securep2p.com^
 ||securepaths.com^
 ||securepayment.cc^
+||securepubads.g.doubleclick.net^
 ||secureredirect101.com^
 ||securerr.com^
 ||securerunner.com^
@@ -120166,6 +120170,7 @@
 ||spc.cejhbebefgneifcekhfgggff.iban.telemetryverification.net.47287.9351.302br.net^
 ||spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net^
 ||spcdnsp.i-mobile.co.jp^
+||spclient-canary.wg.spotify.com^
 ||spcpgtepary.com^
 ||spcwm.com^
 ||spd.atdmt.com^
@@ -135925,6 +135930,7 @@
 ||video-adserver.ibillboard.com^
 ||video-akp-cdn-spotify-com.akamaized.net^
 ||video-akpcw-cdn-spotify-com.akamaized.net^
+||video-akpcw.spotifycdn.com^
 ||video-api.yql.yahoo.com^
 ||video-assets.mathtag.com^
 ||video-aws-stg.fyber.com^
@@ -142282,6 +142288,7 @@
 ||wfzpkmduyvx.com^
 ||wfzvjbdicihe.com^
 ||wg-gesucht.de.intellitxt.com^
+||wg.spotify.com^
 ||wgaycnmfz.com^
 ||wgc1.acecounter.com^
 ||wgclurzhgrjoq.bid^
@@ -152532,6 +152539,7 @@
 ||xptcatkpcyfeev.bid^
 ||xptvk.com^
 ||xpu.samsungelectronics.com^
+||xpui.app.spotify.com^
 ||xpyjxpooncbsvx.bid^
 ||xpywzbxjwbxafv.com^
 ||xpyyrkwpcpwf.com^
