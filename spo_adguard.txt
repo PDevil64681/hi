@@ -313,6 +313,7 @@
 ||9e.video-ak.cdn.spotify.com^
 ||ed.audio-ak.cdn.spotify.com^
 ||a7.video-ak.cdn.spotify.com^
+||wg.spotify.com^
 ||repository.spotify.com^
 ||a3.video-ak.cdn.spotify.com^
 ||8a.audio-ak.cdn.spotify.com^
@@ -373,6 +374,7 @@
 ||mymetrix.comscore.com^
 ||c3.audio-ak.cdn.spotify.com^
 ||clk2.vip.sc9.admob.com^
+||securepubads.g.doubleclick.net^
 ||d1.audio-ak.cdn.spotify.com^
 ||car-prod.scdn.co^
 ||artistheader.scdn.co^
@@ -387,6 +389,7 @@
 ||e10499.dsce9.akamaiedge.net^
 ||omaze.com^
 ||partners.spotify.com^
+||xpui.app.spotify.com^
 ||p.scdn.co^
 ||ads-sp-lon.cdn.spotify.com^
 ||88.video-ak.cdn.spotify.com^
@@ -469,6 +472,7 @@
 ||vastx.moatads.com^
 ||car-dev.scdn.co^
 ||gew1-accesspoint-b-p520.ap.spotify.com^
+||audio-cf.spotifycdn.com^
 ||reports.crashlytics.com^
 ||sjc.weblb-wg.dual-gslb.spotify.com^
 ||4b.audio-ak.cdn.spotify.com^
@@ -1152,6 +1156,7 @@
 ||70.audio-ak.cdn.spotify.com^
 ||f3.video-ak.cdn.spotify.com^
 ||4c.video-ak.cdn.spotify.com^
+||charts-images.scdn.co^
 ||a1949.dscb.akamai.net^
 ||cws2.spotify.com^
 ||06.video-ak.cdn.spotify.com^
@@ -1170,6 +1175,7 @@
 ||lotta.ash1.spotify.com^
 ||d3rt199lpmkn.cloudfront.net^
 ||c1.vip.sc9.admob.com^
+||video-akpcw.spotifycdn.com^
 ||dev1.vip.sc9.admob.com^
 ||stacia.ash1.spotify.com^
 ||blog.spotify.com^
@@ -1240,5 +1246,3 @@
 ||ash1-apresolve-a1.ash1.spotify.com^
 ||dev.spotify.com^
 ||73.audio-ak.cdn.spotify.com^
-||audio-cf.spotifycdn.com^
-||xpui.app.spotify.com^
